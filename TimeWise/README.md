@@ -4,9 +4,9 @@
 
 ## Artifacts
 
-1. **[TestCases.xlsx](./TestCases.xlsx)**: Functional test cases covering key features like task creation, editing, and deletion.
-2. **[PostmanCollection.json](./PostmanCollection.json)**: API tests for endpoints such as login, task creation, and task retrieval.
-3. **[WebAppURL.txt](./WebAppURL.txt)**: A file containing the URL to the live application.
+1. **[TimeWise.xlsx](./TimeWise.xlsx)**: Functional test cases covering key features like task creation, editing, and deletion.
+2. **[PostmanCollection.json](./TimeWise.postman_collection.json)**: API tests for endpoints such as login, task creation, and task retrieval.
+3. **[WebAppURL.txt](./Main Page - TimeWise.WebApp.url)**: A file containing the URL to the live application.
 
 ## Testing Process
 
