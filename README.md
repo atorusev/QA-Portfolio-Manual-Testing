@@ -10,8 +10,8 @@ This repository showcases my manual testing projects. Each project demonstrates 
    - Key Artifacts: [Test Cases](./TimeWise/TimeWise.xlsx), [Postman Collection](./TimeWise/TimeWise.postman_collection.json).
 
 2. **Foody**:
-   - Food delivery application.
-   - Focused on functional testing of user registration, order placement, and payments.
+   - A platform for sharing food experiences through user-generated content..
+   - Focused on functional testing of user registration, profile management, and food creation.
    - Key Artifacts: [Test Cases](./Foody/Foody.xlsx).
 
 3. **Idea Center**:
