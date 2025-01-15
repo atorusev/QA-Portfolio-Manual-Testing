@@ -1,23 +1,28 @@
-# QA Portfolio
-
-Welcome to my QA portfolio! This repository showcases my experience in quality assurance through real-world projects. Each project folder contains:
-
-- **Test Cases**: Written and executed test cases in Excel format.
-- **Bug Reports**: Documented bugs and their resolutions.
-- **API Testing**: Postman collections where applicable.
-- **Project Descriptions**: Details about the testing process, tools used, and my contributions.
+# QA Portfolio - Manual Testing
 
 ## Projects Overview
+This repository showcases my manual testing projects. Each project demonstrates different aspects of QA, including test case design, bug tracking, and API testing.
 
-### [TimeWise](./TimeWise)
-A comprehensive QA project with functional testing, API testing, and a live web application.
+1. **[TimeWise](./TimeWise)**:
+   - Task and schedule management tool.
+   - Includes functional test cases and API testing with Postman.
+   - Key Artifacts: [Test Cases](./TimeWise/TimeWise.xlsx), [Postman Collection](./TimeWise/TimeWise.postman_collection.json).
 
-### [Foody](./Foody)
-Test cases and bug reports for a food delivery application.
+2. **[Foody](./Foody)**:
+   - Food delivery application.
+   - Focused on functional testing of user registration, order placement, and payments.
+   - Key Artifacts: [Test Cases](./Foody/Foody.xlsx).
 
-### [IdeaCenter](./IdeaCenter)
-Test cases and bug reports for a brainstorming platform.
+3. **[Idea Center](./Idea Center)**:
+   - Brainstorming tool for idea sharing.
+   - Focused on functional testing and bug tracking.
+   - Key Artifacts: [Test Cases](./Idea Center/Idea Center.xlsx).
+
+## Skills Demonstrated
+- Test case design.
+- Bug reporting and tracking.
+- API testing with Postman (TimeWise).
+- Documentation using Excel.
 
 ---
-
-Explore each folder for detailed information about the testing methodologies and artifacts.
+Feel free to explore each project for detailed artifacts and testing methodologies.
