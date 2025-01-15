@@ -17,7 +17,7 @@ This repository showcases my manual testing projects. Each project demonstrates 
 3. **Idea Center**:
    - Brainstorming tool for idea sharing.
    - Focused on functional testing and bug tracking.
-   - Key Artifacts: [Test Cases](./Idea_Center/idea_center.xlsx).
+   - Key Artifacts: [Test Cases](./Idea Center/idea_center.xlsx).
 
 ---
 
