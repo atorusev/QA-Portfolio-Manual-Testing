@@ -1,4 +1,6 @@
 # Idea Center Web Application
+The web application tested for this project is available at:
+(http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:83/)
 
 ## Project Overview
 The **Idea Center** web application is designed to facilitate idea sharing and management. The goal of this project was to evaluate the application's functionality, document test cases, identify bugs, and perform API testing.
